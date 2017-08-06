@@ -1,3 +1,7 @@
+# Important things for us
+https://groups.google.com/forum/#!topic/beagleboard/8CrOv5ArN-Q
+
+
 Overview
 ========
 LEDscape is a library and service for controlling individually addressable LEDs from a 
