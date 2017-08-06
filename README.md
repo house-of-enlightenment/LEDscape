@@ -168,6 +168,11 @@ The BeagleBone Green has no HDMI port, so all 48 channels are available on the m
 In fact, if you try to do the edit below you can make the board unbootable!
 
 #### BeagleBone Black
+
+https://groups.google.com/forum/#!topic/beagleboard/8CrOv5ArN-Q
+
+DONT DO THIS for 7.11 
+
 On the BeagleBone Black, the HDMI port uses pins P8-27 through P8-46 so these channels (basically the bottom half of the right header) will not be usable for pixel data by default. If you need less than 28 channels total, you can just use pins that are not assigned to the HDMI port. 
 
 If you want to use the pins assigned to the HDMI port for pixel data, then you will need to disable the HDMI port by entering the command...
